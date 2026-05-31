@@ -147,7 +147,6 @@ group by l.learner_id, l.full_name
 having count(distinct c.category) > 1;
 
 -- Courses that have not been purchased at all
-use e_learning;
 
 
 select 
@@ -158,6 +157,3 @@ left join purchases p on c.course_id = p.course_id
 where p.course_id is null;
 
 
-select * from courses;
-
-select * from purchases;
