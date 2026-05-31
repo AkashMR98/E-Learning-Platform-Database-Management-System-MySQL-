@@ -26,6 +26,8 @@ This project demonstrates the design and implementation of an E-Learning Platfor
 | full_name | VARCHAR(100) |
 | country | VARCHAR(100) |
 
+<img width="912" height="437" alt="learners sql" src="https://github.com/user-attachments/assets/b8998d2a-1fb1-4507-a36a-95d8f138daed" />
+
 ---------------------------------------------------------------------------------------------------------
 
 ### 📚Courses Table
@@ -36,6 +38,8 @@ This project demonstrates the design and implementation of an E-Learning Platfor
 | course_name | VARCHAR(100) |
 | category | VARCHAR(50) |
 | unit_price | DECIMAL(10,2) |
+
+<img width="1127" height="297" alt="courses sql" src="https://github.com/user-attachments/assets/1364778b-16af-4ae7-ab56-bdd73d641b46" />
 
 ---------------------------------------------------------------------------------------------------------
 
@@ -48,6 +52,9 @@ This project demonstrates the design and implementation of an E-Learning Platfor
 | course_id | INT (Foreign Key) |
 | quantity | INT |
 | purchase_date | DATE |
+
+<img width="1195" height="423" alt="purchases sql" src="https://github.com/user-attachments/assets/b2d9987f-e015-4c7a-bf3e-e0786dbaa731" />
+
 
 ---------------------------------------------------------------------------------------------------------
 
@@ -170,3 +177,18 @@ Identifies courses that have never been purchased.
 
 This project successfully demonstrates the design and implementation of an E-Learning Platform Database using MySQL. By applying relational database concepts, SQL joins, aggregate functions, and analytical queries, valuable insights were generated regarding learner behavior, course performance, and revenue trends. The project highlights practical SQL skills commonly used in real-world data analysis and database management scenarios.
 
+---------------------------------------------------------------------------------------------------------
+
+## Author
+
+#### Akash MR
+Data Analyst 
+
+- Github : [Akash MR](https://github.com/AkashMR98/Project-PowerBI-Restaurant-Orders-Dashboard/blob/main/README.md)
+- Email : [Akash MR](akashmr757@gmail.com)
+
+---------------------------------------------------------------------------------------------------------
+
+## Tags 
+
+`#Sql` `#Mysql` `#e-learning`
